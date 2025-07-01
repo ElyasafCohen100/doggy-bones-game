@@ -1,14 +1,12 @@
 \# Doggy Bones Game 🐶🦴
 
 
-
 This is a cute and fun game made with \*\*Processing\*\*.
-
-
 
 You play as a little dog who loves to eat bones!  
 
 Try to collect as many bones as you can, and don’t lose all your hearts!
+
 
 
 
@@ -26,6 +24,7 @@ Try to collect as many bones as you can, and don’t lose all your hearts!
 
 
 
+
 \## 📁 Files: 📁
 
 
@@ -38,11 +37,23 @@ Try to collect as many bones as you can, and don’t lose all your hearts!
 
 
 
+### 🕹️ In-Game Screenshot
+![Gameplay](the_game.jpg)
+
+### 🏆 Win Screen
+![You Win](you_win.jpg)
+
+### 💀 Game Over Screen
+![Game Over](game_over.jpg)
+
+
+
 \## ✨ Made by Elyasaf Cohen ✨
 
 GitHub: \[@ElyasafCohen100](https://github.com/ElyasafCohen100)
 
 
-
-If you like this game, please give it a ⭐ on GitHub! ✌️😎
+// =============================================== //
+  *  If you like this game, please give it a ⭐ on GitHub! ✌️😎 *
+// =============================================== //
 
