@@ -1,85 +1,53 @@
-# Investment Advisor Project 💼📈🧠
 
-This is a **Stock Portfolio Management System** developed as part of the "Real-Time Systems & Window Engineering" course
-It combines a **Python GUI (PySide6)** frontend with a powerful **ASP.NET Core** backend – and smart integrations with cloud & AI services 🤖☁️
 
----
+# Doggy Bones Game 🐶🦴
 
-## How to Use 🎮
+This is a cute and fun game made with **Processing**.
 
-- 🔐 Log in securely as a user  
-- 📈 Buy or Sell stocks through the GUI  
-- 📊 View portfolio in graph or table mode  
-- 🧠 Ask the built-in AI advisor for financial recommendations  
-- 🖼️ Upload supporting files (e.g., charts) via Cloudinary  
-- 🌍 Get real-time market data from Polygon.io
+You play as a little dog who loves to eat bones!  
+Try to collect as many bones as you can, and don’t lose all your hearts!
 
 ---
 
-## Project Files 📁
+## 🎮 How to Play: 🎮
 
-### Backend (`backend/`) 🔙
-- `Controllers/` – API endpoints  
-- `Services/` – business logic  
-- `Repositories/` – data access  
-- `DTOs/`, `Requests/`, `Models/` – data structures  
-- `appsettings.json` – configuration  
-- `StockAdvisorBackend.sln` – solution file  
-
-### Frontend (`frontend/`) 🖥️
-- `Windows/` – all GUI windows  
-- `Services/` – API integrations  
-- `Constants/` – static values  
-- `Pictures/` – UI icons and images  
-- `mainWindow.py` – launcher for the app  
+- Move the dog with your keyboard  
+- Catch the bones  
+- Don’t let the hearts run out!  
+- Try to get a high score  
 
 ---
 
-## Technologies Used 🧠
+## 📁 Files: 📁
 
-### Frontend
-- Python 3.9+  
-- PySide6 / Qt  
-- QtCharts (for graphs)  
-
-### Backend
-- ASP.NET Core 6.0 / 8.0  
-- MVC + CQRS + Event Sourcing  
-- Hosted on `somee.com`  
-
-### External Services ☁️
-- [Polygon.io](https://polygon.io) – market data API  
-- [Cloudinary](https://cloudinary.com) – image uploads  
-- [Ollama](https://ollama.ai) – LLM agent via Docker  
+- MyFirstApp.pde – main game code  
+- data/ – images, sounds, and fonts  
+- nitz13D.pde – extra code  
 
 ---
 
-## How to Run 🛠️
+## 🖼️ Screenshots: 🖼️
 
-### Backend
+### 🕹️ In-Game Screenshot 🕹️
+![Gameplay](the_game.jpg)
 
-```bash
-# Open with Visual Studio
-StockAdvisorBackend.sln
+### 🏆 Win Screen 🏆
+![You Win](you_win.jpg)
 
-# Make sure appsettings.json is configured
-# Press F5 to run the API locally
-```
-
-### Frontend
-
-```bash
-cd frontend
-pip install PySide6
-python Windows/mainWindow.py
-```
+### 🎬 Game Over Screen 🎬
+![Game Over](game_over.jpg)
 
 ---
 
-## Made by Elyasaf Cohen ✨
+### 🎥 Gameplay Demo 🎥
+![Doggy Bones Demo](doggy_bones_demo.gif)
+
+---
+
+## ✨ Made by Elyasaf Cohen ✨
 
 GitHub: [@ElyasafCohen100](https://github.com/ElyasafCohen100)
 
 ---
 
-> ⚡ If you like this project, please give it a ⭐ on GitHub! ✌️😎
+> ⚡ If you like this game, please give it a ⭐ on GitHub! ✌️😎
